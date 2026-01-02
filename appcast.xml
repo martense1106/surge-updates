@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Surge Browser Updates</title>
+        <item>
+            <title>Version 1.0</title>
+            <pubDate>Thu, 02 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>140.0.7264.0</sparkle:version>
+            <description>Initial Release</description>
+        </item>
+    </channel>
+</rss>
