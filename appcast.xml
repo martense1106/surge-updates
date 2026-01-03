@@ -5,7 +5,8 @@
         <item>
             <title>Version 2.0</title>
             <pubDate>Fri, 02 Jan 2026 18:00:00 +0000</pubDate>
-            <sparkle:version>140.0.7265.0</sparkle:version>
+            <sparkle:version>7265.0</sparkle:version>
+            <sparkle:shortVersionString>140.0.7265.0</sparkle:shortVersionString>
             <description>
                 <![CDATA[
                 <h2>Version 2.0 is here!</h2>
