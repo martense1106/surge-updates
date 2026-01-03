@@ -3,10 +3,22 @@
     <channel>
         <title>Surge Browser Updates</title>
         <item>
-            <title>Version 1.0</title>
-            <pubDate>Thu, 02 Jan 2026 12:00:00 +0000</pubDate>
-            <sparkle:version>140.0.7264.0</sparkle:version>
-            <description>Initial Release</description>
+            <title>Version 2.0</title>
+            <pubDate>Fri, 02 Jan 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>140.0.7265.0</sparkle:version>
+            <description>
+                <![CDATA[
+                <h2>Version 2.0 is here!</h2>
+                <ul>
+                    <li>Includes automatic updates (obviously!)</li>
+                    <li>Performance improvements</li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure url="https://github.com/martense1106/surge-updates/releases/download/v2.0/SurgeUpdate.dmg"
+                       sparkle:edSignature="ktMvxg9LsSmkmvp2LfP35ApHAE2UKJ3zQCdh6MvQ+pzL/o0D2WDnUYUhvWRwJW1e7svoiChQXdDOMUv7Fb7MAQ=="
+                       length="220660481"
+                       type="application/octet-stream" />
         </item>
     </channel>
 </rss>
