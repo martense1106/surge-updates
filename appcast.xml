@@ -4,7 +4,7 @@
     <title>Surge Browser Updates</title>
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Mon, 03 Mar 2026 13:00:00 -0700</pubDate>
+      <pubDate>Mon, 03 Mar 2026 14:00:00 -0700</pubDate>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <description>
@@ -16,9 +16,9 @@
         ]]>
       </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v0.0.0/SurgeBrowser.dmg"
-        sparkle:edSignature="7dE9iKsMfMhMRRcFB92sIz6+bHH6Il7HkKtLsIFaE/qh2RQGjr/RD+r4MlWA1wOnd5tgQTL17rhzlOhYqYKIAA=="
-        length="348927094"
+        url="https://github.com/martense1106/surge-updates/releases/download/v0.1.0/SurgeBrowser.dmg"
+        sparkle:edSignature="blUOixoOetBnTvvodJ+2tImAaFOGguDxh3CQg7eqkp1nAy3Cp44dO7uSGbkpYXiz/YGy76nWdBOeBhNxEfSxDA=="
+        length="348927143"
         type="application/octet-stream"
       />
     </item>
