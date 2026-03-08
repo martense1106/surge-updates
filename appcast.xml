@@ -3,22 +3,22 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 0.1.0</title>
-      <pubDate>Mon, 03 Mar 2026 14:00:00 -0700</pubDate>
-      <sparkle:version>1</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <title>Version 1.1.0</title>
+      <pubDate>Sun, 08 Mar 2026 12:00:00 -0700</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <description>
         <![CDATA[
-          <h2>Surge Browser 0.1.0</h2>
+          <h2>Surge Browser 1.1.0</h2>
           <ul>
-            <li>Sparkle update test</li>
+            <li>Upgrades</li>
           </ul>
         ]]>
       </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v0.1.0/SurgeBrowser.dmg"
-        sparkle:edSignature="blUOixoOetBnTvvodJ+2tImAaFOGguDxh3CQg7eqkp1nAy3Cp44dO7uSGbkpYXiz/YGy76nWdBOeBhNxEfSxDA=="
-        length="348927143"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.1.0/SurgeBrowser.dmg"
+        sparkle:edSignature="K2XWuDZQkW9I8sajyqjJ6IBxXDRidcK7g6AlHooHrNB6xE3+OTzGHKFCJ8FBzsghG1dCXRV3AzUujxjs1sn2Aw=="
+        length="314091891"
         type="application/octet-stream"
       />
     </item>
