@@ -3,10 +3,10 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.2.0</title>
-      <pubDate>Sat, 13 Jun 2026 00:00:00 -0700</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <title>Version 1.2.1</title>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 -0700</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
       <description>
   <![CDATA[
     <h2>Surge Browser 1.2.0</h2>
@@ -14,15 +14,14 @@
     <ul>
       <li><strong>The all-new equity page.</strong> Visit <code>surge://equity</code> for a real-time ledger of your equity in the cooperative. Watch your clicks and dividends update live as you browse, and explore it all through interactive charts that bring your stake to life.</li>
       <li><strong>Quick access, everywhere.</strong> We've added your equity to the menus and toolbar, so your ownership is always one click away.</li>
-      <li><strong>Keep earning equity.</strong> This update is required to keep earning equity for your clicks — update now so your ownership keeps growing.</li>
       <li><strong>Security updates</strong> to keep you protected.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.2.0/SurgeBrowser.dmg"
-        sparkle:edSignature="fbuWcOx9cnlDonFScu2YzDQf3zWAqFkoI+wsaeIpJO0DaNx3sd879GgZrV0fqAt6yiozIK4P90Rw6K5dCwiABw=="
-        length="316085951"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.2.1/SurgeBrowser.dmg"
+        sparkle:edSignature="8uK2OgwAoF3XcLlC7F5eBURF5w3W5JBTNT/maO0UlTx6h/Bu3suCa8nLdiYM59glE44F3IE05Z0yS9L/TapsBQ=="
+        length="316084660"
         type="application/octet-stream"
       />
     </item>
