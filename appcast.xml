@@ -3,24 +3,24 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.2.2</title>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 -0700</pubDate>
-      <sparkle:version>9</sparkle:version>
-      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <title>Version 1.2.3</title>
+      <pubDate>Wed, 26 Aug 2026 14:55:38 -0600</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
       <description>
   <![CDATA[
-    <h2>Surge Browser 1.2.2</h2>
-    <p>Security updates to your equity ledger — you must upgrade to this version to continue earning and viewing your equity.</p>
+    <h2>Surge Browser 1.2.3</h2>
+    <p>Updates now arrive on their own, and your equity keeps counting right up to the moment you quit.</p>
     <ul>
-      <li><strong>Security updates to the equity page.</strong> Visit <code>surge://equity</code> for a real-time ledger of your equity in the cooperative. Watch your clicks and dividends update live as you browse, and explore it all through interactive charts that bring your stake to life.</li>
-      <li><strong>Quick access, everywhere.</strong> You can access your equity in the menus and toolbar, so your ownership is always one click away.</li>
+      <li><strong>Updates that wait for you.</strong> New versions download quietly in the background while you browse. When one is ready you'll see <strong>New Surge available</strong> next to the menu button — relaunch whenever it suits you, and your tabs reopen where you left them.</li>
+      <li><strong>Every click counts, even the last one.</strong> Clicks recorded just before you quit or relaunch are now saved instead of dropped, so your equity ledger reflects everything you browsed.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.2.2/SurgeBrowser.dmg"
-        sparkle:edSignature="iIAKZ2sjnTpf0OKLliTZU8QJEigMMf1sEPp9sGKx/QWOoj/eF2r4i4oD8UdNnhnBShT8omSaghnXVCVbMVnnDw=="
-        length="316105938"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.2.3/SurgeBrowser.dmg"
+        sparkle:edSignature="I2DsSVjAXO7ozFdzdnR5S6PcLRVO1K5XsVjD2wnJlCyUMktNL8FkDkmvAyIhBItK1w+oi4HUbPommsiDrGldCg=="
+        length="316075281"
         type="application/octet-stream"
       />
     </item>
