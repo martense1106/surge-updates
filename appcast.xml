@@ -3,26 +3,24 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.3.0</title>
-      <pubDate>Fri, 16 Oct 2026 15:32:08 -0600</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <title>Version 1.2.3</title>
+      <pubDate>Wed, 26 Aug 2026 14:55:38 -0600</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.2.3</sparkle:shortVersionString>
       <description>
   <![CDATA[
-    <h2>Surge Browser 1.3.0</h2>
-    <p>A big update to the browser you own: the latest security fixes, a new sign-in built right into Surge, and more control over your equity and your data.</p>
+    <h2>Surge Browser 1.2.3</h2>
+    <p>Updates now arrive on their own, and your equity keeps counting right up to the moment you quit.</p>
     <ul>
-      <li><strong>Up to date, and on every Mac.</strong> Surge now runs on the newest browser engine, with months of security and speed improvements, and it runs natively on Intel Macs as well as Apple silicon.</li>
-      <li><strong>Sign in right in Surge.</strong> Signing in now happens inside the browser. Each member on your Mac gets their own profile, with your photo on it, and Guest mode is there when you want to browse privately.</li>
-      <li><strong>Your equity, your control.</strong> Lock <code>surge://equity</code> behind Touch ID or your Mac password, delete individual clicks from your ledger, or delete your account from Settings.</li>
-      <li><strong>Movies and shows play.</strong> Streaming services such as YouTube, HBO Max and Disney+ now play protected video.</li>
+      <li><strong>Updates that wait for you.</strong> New versions download quietly in the background while you browse. When one is ready you'll see <strong>New Surge available</strong> next to the menu button — relaunch whenever it suits you, and your tabs reopen where you left them.</li>
+      <li><strong>Every click counts, even the last one.</strong> Clicks recorded just before you quit or relaunch are now saved instead of dropped, so your equity ledger reflects everything you browsed.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.0/SurgeBrowser.dmg"
-        sparkle:edSignature="z4z7c0hFaazNe+LyFXS1wSKMgUuMjaJvvPNGXgEowsabVHagyE/w9tLvb65iLxPGU//24TMTa0Dxw75K/k6tBA=="
-        length="311510517"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.2.3/SurgeBrowser.dmg"
+        sparkle:edSignature="I2DsSVjAXO7ozFdzdnR5S6PcLRVO1K5XsVjD2wnJlCyUMktNL8FkDkmvAyIhBItK1w+oi4HUbPommsiDrGldCg=="
+        length="316075281"
         type="application/octet-stream"
       />
     </item>
