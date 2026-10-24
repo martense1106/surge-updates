@@ -3,25 +3,24 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.3.2</title>
-      <pubDate>Sun, 18 Oct 2026 15:54:23 -0600</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+      <title>Version 1.3.3</title>
+      <pubDate>Sat, 24 Oct 2026 00:41:29 -0600</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description>
   <![CDATA[
-    <h2>Surge Browser 1.3.2</h2>
-    <p>Surge is the browser you own, and now it looks it: the Google links and buttons that came with the browser engine are gone, and your saved passwords stay on your Mac.</p>
+    <h2>Surge Browser 1.3.3</h2>
+    <p>Surge opens again on every Mac, so anyone you invite to the cooperative can download it and start earning equity for their clicks.</p>
     <ul>
-      <li><strong>No more Google links and buttons.</strong> Help links to Google's support site, Translate, "Send to your device" and the in-page image search are gone from menus and pages. Image search still works from the search box on your new tab page.</li>
-      <li><strong>Your passwords stay on your Mac.</strong> Password Manager no longer offers to save your passwords in a Google Account, and its Google-run password Checkup is gone. Any passwords that were set to sync to Google are copied to this Mac when you update, so nothing is lost.</li>
+      <li><strong>Fresh downloads open cleanly.</strong> Opening Surge for the first time no longer stops with ‘developer cannot be verified’ — on any Mac, Intel or Apple Silicon. Updates were never affected.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.2/SurgeBrowser.dmg"
-        sparkle:edSignature="LxshZ69rlPm1ax50v/xtnDbkatxovA0MNQGtRs7F4kdAdGRohzLjxdrqJzBx41kIANlKsBnjnu3chVHCTgl7Aw=="
-        length="311467690"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.3/SurgeBrowser.dmg"
+        sparkle:edSignature="hgzRLZwUmBASgs19F+6CMw8oXoVr7agLljNOcsy5I44RcT72v7ebE9lNRRsVdkU1cvgq5ntkMhHMtvtgna2HBw=="
+        length="311467383"
         type="application/octet-stream"
       />
     </item>
