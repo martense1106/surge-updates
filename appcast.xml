@@ -3,24 +3,24 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.3.3</title>
-      <pubDate>Sat, 24 Oct 2026 00:41:29 -0600</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <title>Version 1.3.4</title>
+      <pubDate>Tue, 27 Oct 2026 13:03:13 -0600</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description>
   <![CDATA[
-    <h2>Surge Browser 1.3.3</h2>
-    <p>Surge opens again on every Mac, so anyone you invite to the cooperative can download it and start earning equity for their clicks.</p>
+    <h2>Surge Browser 1.3.4</h2>
+    <p>Surge now looks out for you on the open web, so you can browse, click and earn with more confidence.</p>
     <ul>
-      <li><strong>Fresh downloads open cleanly.</strong> Opening Surge for the first time no longer stops with ‘developer cannot be verified’ — on any Mac, Intel or Apple Silicon. Updates were never affected.</li>
+      <li><strong>Safe Browsing protection is working.</strong> Surge warns you before you open known phishing and malware sites.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.3/SurgeBrowser.dmg"
-        sparkle:edSignature="hgzRLZwUmBASgs19F+6CMw8oXoVr7agLljNOcsy5I44RcT72v7ebE9lNRRsVdkU1cvgq5ntkMhHMtvtgna2HBw=="
-        length="311467383"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.4/SurgeBrowser.dmg"
+        sparkle:edSignature="nlQKUHJZV2UqNKlwOizyo5BuTFzRhme2ERP63F3by3w3NhQUnW9qoTSgUQzy3Yz2XACZYX+5S7LdccvuqX5BAQ=="
+        length="311468742"
         type="application/octet-stream"
       />
     </item>
