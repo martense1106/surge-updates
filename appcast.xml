@@ -3,24 +3,25 @@
   <channel>
     <title>Surge Browser Updates</title>
     <item>
-      <title>Version 1.3.4</title>
-      <pubDate>Tue, 27 Oct 2026 13:03:13 -0600</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>1.3.4</sparkle:shortVersionString>
+      <title>Version 1.3.5</title>
+      <pubDate>Wed, 28 Oct 2026 01:18:44 -0600</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.3.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <description>
   <![CDATA[
-    <h2>Surge Browser 1.3.4</h2>
-    <p>Surge now looks out for you on the open web, so you can browse, click and earn with more confidence.</p>
+    <h2>Surge Browser 1.3.5</h2>
+    <p>Read the web in your language, and keep more of what you type to yourself.</p>
     <ul>
-      <li><strong>Safe Browsing protection is working.</strong> Surge warns you before you open known phishing and malware sites.</li>
+      <li><strong>Page translation is back, built in.</strong> When you open a page in another language, Surge offers to translate it, powered by Google Translate. A page's text goes to Google only when you choose Translate.</li>
+      <li><strong>Your forms stay private.</strong> Surge no longer sends the structure of the forms you fill in to Google for autofill. Your saved addresses and passwords still fill in as before.</li>
     </ul>
   ]]>
 </description>
       <enclosure
-        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.4/SurgeBrowser.dmg"
-        sparkle:edSignature="nlQKUHJZV2UqNKlwOizyo5BuTFzRhme2ERP63F3by3w3NhQUnW9qoTSgUQzy3Yz2XACZYX+5S7LdccvuqX5BAQ=="
-        length="311468742"
+        url="https://github.com/martense1106/surge-updates/releases/download/v1.3.5/SurgeBrowser.dmg"
+        sparkle:edSignature="QFoJPUBVkrQuStYnMrJXFfKFSPq2+r1OVrRuYxxCUGg80H6YT/2zEAOCFd2lKSrF2Z4mQs2b5tsEl/at1UBDAQ=="
+        length="311490547"
         type="application/octet-stream"
       />
     </item>
